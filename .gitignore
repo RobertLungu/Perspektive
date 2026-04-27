@@ -46,6 +46,11 @@ Assets/TextMesh Pro/Examples & Extras/
 # Plastic SCM
 *.plastic/
 
+# Build output
+PerspektiveWin/
+PerspektiveWin.zip
+*_DoNotShip/
+
 # Crashes
 crash.log
 sysinfo.txt
