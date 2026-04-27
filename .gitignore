@@ -1,0 +1,54 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity cache
+*.pidb
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files (keep these — needed to reconstruct project)
+# *.meta
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# VS / Rider / VSCode
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+
+# TextMesh Pro examples (not your code)
+Assets/TextMesh Pro/Examples & Extras/
+
+# Plastic SCM
+*.plastic/
+
+# Crashes
+crash.log
+sysinfo.txt
+
+# Packages lock (optional — remove this line if you want to lock package versions)
+Packages/packages-lock.json
